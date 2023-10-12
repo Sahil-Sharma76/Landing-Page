@@ -1,2 +1,1 @@
-# chakra-ui-landing-page-react
-# chakra-ui-landing-page-react
+landing-page-react
